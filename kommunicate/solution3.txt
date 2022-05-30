@@ -1,0 +1,6 @@
+One of the project I have worked on is my recent project which is link shortener.
+I have used react in this project with an api for shortening link.
+Then I deployed this project in netlify.
+
+
+link for the project is : https://smallurls.netlify.app
